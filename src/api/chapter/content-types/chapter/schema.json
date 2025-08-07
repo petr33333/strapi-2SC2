@@ -20,6 +20,21 @@
         "blocks.text",
         "blocks.image"
       ]
+    },
+    "permissionGroupFree": {
+      "type": "boolean"
+    },
+    "permissionGroupBeginner": {
+      "type": "boolean"
+    },
+    "permissionGroupAdvanced": {
+      "type": "boolean"
+    },
+    "permissionGroupPro": {
+      "type": "boolean"
+    },
+    "permissionGroupIndividual": {
+      "type": "boolean"
     }
   }
 }
