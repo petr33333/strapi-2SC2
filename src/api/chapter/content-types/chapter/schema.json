@@ -22,19 +22,24 @@
       ]
     },
     "permissionGroupFree": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false
     },
     "permissionGroupBeginner": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false
     },
     "permissionGroupAdvanced": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false
     },
     "permissionGroupPro": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false
     },
     "permissionGroupIndividual": {
-      "type": "boolean"
+      "type": "boolean",
+      "default": false
     }
   }
 }
